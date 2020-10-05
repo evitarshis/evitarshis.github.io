@@ -10,4 +10,4 @@ Another fun fact about me is that I love to travel and am looking forward to con
 # Tumeline Practice
 [<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qlV2bw8ApB-qqxLRvjJZGh3M7M-KVrRhNZ6H2gKbWMY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>]
 # Timeline of Instagram
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+[Timeline of Instagram](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)

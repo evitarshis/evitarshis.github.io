@@ -9,7 +9,7 @@ Another fun fact about me is that I love to travel and am looking forward to con
 ![coronavirus](https://github.com/evitarshis/evitarshis.github.io/blob/master/Coronavirus%20cases%20by%20race_ethnicity%20in%20the%20United%20States.png?raw=true]) The infographic above shows the different percentages of coronavirus cases by race. The data was collected by the Center of Disease Control and Protection (CDC) and raises questions about the inequalities of certain races. The data, however, is not generalizable to the entire population because it only represents the geographic areas that contributed data to them. The data comes from 5,260,799 cases across the U.S. The data shows a clear spike in certain races such as 29.% being Latino or Hispanic, 18.3% being Black and 43% being White. 
 
 # Tumeline Practice
-![History of The Lehigh Lafayette Rivalry](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qlV2bw8ApB-qqxLRvjJZGh3M7M-KVrRhNZ6H2gKbWMY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Timeline of Instagram
 ![The History of Instagran](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)

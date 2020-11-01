@@ -12,7 +12,7 @@ Another fun fact about me is that I love to travel and am looking forward to con
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Timeline of Instagram
-![The History of Instagran](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+![The History of Instagram]<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 # Top Five Running Trails Map
 ![Top Five Running Trails In The Lehigh Valley](<iframe src="https://www.google.com/maps/d/u/2/embed?mid=14kqscb2LT4hHrHBbKhamM40-G4V1dmn4" width="640" height="480"></iframe>)
 The map above displays five different running trails in the Lehigh Valley. I love running so decided to choose my topic on the best trails in this area. Each icon on the map represents a different trail, including a decription of the trail and a photo. 

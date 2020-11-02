@@ -8,11 +8,11 @@ Another fun fact about me is that I love to travel and am looking forward to con
 # Coronavirus Cases In The U.S. by Race
 ![coronavirus](https://github.com/evitarshis/evitarshis.github.io/blob/master/Coronavirus%20cases%20by%20race_ethnicity%20in%20the%20United%20States.png?raw=true]) The infographic above shows the different percentages of coronavirus cases by race. The data was collected by the Center of Disease Control and Protection (CDC) and raises questions about the inequalities of certain races. The data, however, is not generalizable to the entire population because it only represents the geographic areas that contributed data to them. The data comes from 5,260,799 cases across the U.S. The data shows a clear spike in certain races such as 29.% being Latino or Hispanic, 18.3% being Black and 43% being White. 
 
-# Tumeline Practice
+# Timeline Practice
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Timeline of Instagram
 ![The History of Instagram] <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-# Top Five Running Trails Map
-![Top Five Running Trails In The Lehigh Valley](<iframe src="https://www.google.com/maps/d/u/2/embed?mid=14kqscb2LT4hHrHBbKhamM40-G4V1dmn4" width="640" height="480"></iframe>)
+# Top Five Running Tramm vils Map
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=14kqscb2LT4hHrHBbKhamM40-G4V1dmn4" width="640" height="480"></iframe>
 The map above displays five different running trails in the Lehigh Valley. I love running so decided to choose my topic on the best trails in this area. Each icon on the map represents a different trail, including a decription of the trail and a photo. 

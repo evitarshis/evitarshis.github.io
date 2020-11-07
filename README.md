@@ -13,8 +13,7 @@ Another fun fact about me is that I love to travel and am looking forward to con
 The bar chart above displays the residence life of undergraduate students at Lehigh in 2019. As you can see, the majority of undergraduates live on campus in the residence halls but the amount of students who live off campus comes in a close second. Sororties and Fraternities hold the least amount of graduate students.
 
 # Line Chart
-
-
+!
 # Timeline of Instagram
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 The timeline above represents the history of Instagram: one of the most popular social media apps. Throughout thetime line you will learn about the orgin of Instagram and how it became home to over a billion users. 

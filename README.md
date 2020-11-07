@@ -12,6 +12,8 @@ Another fun fact about me is that I love to travel and am looking forward to con
 ![Residence](https://github.com/evitarshis/evitarshis.github.io/blob/master/chart.png?raw=true)
 The bar chart above displays the residence life of undergraduate students at Lehigh in 2019. As you can see, the majority of undergraduates live on campus in the residence halls but the amount of students who live off campus comes in a close second. Sororties and Fraternities hold the least amount of graduate students.
 
+# Line Chart
+
 
 # Timeline of Instagram
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -19,3 +21,4 @@ The timeline above represents the history of Instagram: one of the most popular 
 # Top Five Running Tramm vils Map
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=14kqscb2LT4hHrHBbKhamM40-G4V1dmn4" width="640" height="480"></iframe>
 The map above displays five different running trails in the Lehigh Valley. I love running so decided to choose my topic on the best trails in this area. Each icon on the map represents a different trail, including a decription of the trail and a photo. 
+

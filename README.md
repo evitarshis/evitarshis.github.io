@@ -18,7 +18,7 @@ The line chart above displays the difference of voter turnouts in Pennsylvania f
 # Timeline of Instagram
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qC63jzvXZgSZHCK_XdNkPYrPEfaKR8PqUVQqDhI60HM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 The timeline above represents the history of Instagram: one of the most popular social media apps. Throughout the time line you will learn about the orgin of Instagram and how it became home to over a billion users. 
-# Top Five Running Tramm vils Map
+# Top Five Running Trails In The Lehigh Valley Map
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=14kqscb2LT4hHrHBbKhamM40-G4V1dmn4" width="640" height="480"></iframe>
-The map above displays five different running trails in the Lehigh Valley. I love running so decided to choose my topic on the best trails in this area. Each icon on the map represents a different trail, including a decription of the trail and a photo. 
+The map above displays five different running trails in the Lehigh Valley. I love running so decided to choose my topic on the best trails in this area. Each icon on the map represents a different trail, including a decription of the trail and a photo. Each description provides you with a breif history of the trail along with the different features each obtain contains. 
 

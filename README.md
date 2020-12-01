@@ -1,3 +1,5 @@
+![comic]
+
 # Introduction
 
 ![eviii](https://github.com/evitarshis/evitarshis.github.io/blob/master/eviii.JPG?raw=true)

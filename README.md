@@ -1,4 +1,4 @@
-![comic]
+![comic](https://github.com/evitarshis/evitarshis.github.io/blob/master/comic.png?raw=true)
 
 # Introduction
 

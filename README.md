@@ -1,5 +1,5 @@
 # Evi Tarshis
-<img src="https://github.com/evitarshis/evitarshis.github.io/blob/master/eviii.JPG?raw=true" alt="eviii" width="200"/>
+<img src="https://github.com/evitarshis/evitarshis.github.io/blob/master/eviii.JPG?raw=true" alt="eviii" width="250"/>
 
 ## Welcome to my life!
 Hi everyone! My name is Evi Tarshis and I'm from Westport Connecticut. I am in the school of Arts and Sciences and my major is currently undeclared. I am taking a wide variety of classes so I can explore all the different fields before commiting to a certain major. 

@@ -11,8 +11,8 @@ Besides journalism, I also took A.P. Statisitcs my senior year and loved it. Tha
 
 
 ## Coronavirus Cases In The U.S. by Race
+<img src="https://github.com/evitarshis/evitarshis.github.io/blob/master/Coronavirus%20cases%20by%20race_ethnicity%20in%20the%20United%20States.png?raw=true]" alt="coronavirus" width="200"/>
 
-![coronavirus](https://github.com/evitarshis/evitarshis.github.io/blob/master/Coronavirus%20cases%20by%20race_ethnicity%20in%20the%20United%20States.png?raw=true]) 
 
 The infographic above shows the different percentages of coronavirus cases by race. The data was collected by the Center of Disease Control and Protection (CDC) and raises questions about the inequalities of certain races. The data, however, is not generalizable to the entire population because it only represents the geographic areas that contributed data to them. The data comes from 5,260,799 cases across the U.S. The data shows a clear spike in certain races such as 29.% being Latino or Hispanic, 18.3% being Black and 43% being White. 
 

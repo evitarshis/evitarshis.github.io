@@ -1,4 +1,4 @@
-![eviii]
+![eviii](https://github.com/evitarshis/evitarshis.github.io/blob/master/eviii.JPG?raw=true)
 
 ![comic](https://github.com/evitarshis/evitarshis.github.io/blob/master/comic.png?raw=true)
 

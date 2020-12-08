@@ -1,6 +1,8 @@
+![eviii]
+
 ![comic](https://github.com/evitarshis/evitarshis.github.io/blob/master/comic.png?raw=true)
 
-# Introduction
+# Welcome to my life!
 
 Hi everyone! My name is Evi Tarshis and I'm from Westport Connecticut. I am in the school of Arts and Sciences and my major is currently undeclared. I am taking a wide variety of classes so I can explore all the different fields before commiting to a certain major. 
 I've always loved asking questions and getting to know things about people below the surface that might not seem so obvious. That's why I fell in love with journalism from the second I joined my school's newspaper in eighth grade. I continued working on it all throughout highschool and worked as an editor for the Arts section of the paper my senior year. 

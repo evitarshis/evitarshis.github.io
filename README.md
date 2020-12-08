@@ -14,14 +14,14 @@ Here is a comic I made using [pixton](https://app.pixton.com/#/) to provide some
 <img src="https://github.com/evitarshis/evitarshis.github.io/blob/master/Coronavirus%20cases%20by%20race_ethnicity%20in%20the%20United%20States.png?raw=true]" alt="coronavirus" width="200"/>
 
 
-The infographic above shows the different percentages of coronavirus cases by race. The data was collected by the Center of Disease Control and Protection (CDC) and raises questions about the inequalities of certain races. The data, however, is not generalizable to the entire population because it only represents the geographic areas that contributed data to them. The data comes from 5,260,799 cases across the U.S. The data shows a clear spike in certain races such as 29.% being Latino or Hispanic, 18.3% being Black and 43% being White. 
+The infographic above, created using [canva](https://www.canva.com/) shows the different percentages of coronavirus cases by race. The data was collected by the Center of Disease Control and Protection (CDC) and raises questions about the inequalities of certain races. The data, however, is not generalizable to the entire population because it only represents the geographic areas that contributed data to them. The data comes from 5,260,799 cases across the U.S. The data shows a clear spike in certain races such as 29.% being Latino or Hispanic, 18.3% being Black and 43% being White. 
 
 
 ## Chartbuilder Bar Chart of Lehigh's 2019 Undergraduate Students Residents Life 
 
 ![chart](https://github.com/evitarshis/evitarshis.github.io/blob/master/chart.png?raw=true)
 
-The bar chart above, created with [cava](https://www.canva.com/) displays the residence lives of undergraduate students at Lehigh in 2019. As you can see, the majority of undergraduates live on campus in the residence halls but the amount of students who live off campus comes in a close second. Sororties and Fraternities hold the least amount of graduate students. This data was collected from Lehigh University Statisitics and can be help first-year students make the decision of where they want to live. 
+The bar chart above displays the residence lives of undergraduate students at Lehigh in 2019. As you can see, the majority of undergraduates live on campus in the residence halls but the amount of students who live off campus comes in a close second. Sororties and Fraternities hold the least amount of graduate students. This data was collected from Lehigh University Statisitics and can be help first-year students make the decision of where they want to live. 
 
 
 ## Line Chart of Pennsylvania Voter Turnout 
